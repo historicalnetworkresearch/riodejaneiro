@@ -36,11 +36,11 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /img/conference_logo.png
+logo:                  /img/hnr2025_logo.png
 
 # Favicon (added by MG):
-favicon:               /img/conference_logo.png
-apple_touch_icon:      /img/conference_logo.png
+favicon:               /img/hnr2025_logo.png
+apple_touch_icon:      /img/hnr2025_logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -56,10 +56,6 @@ menu:
     url:               /
   - title:             Call for papers
     url:               /cfp/
-  - title:             Program
-    url:               /program/  
-  - title:             Workshops
-    url:               /workshops/  
   - title:             Practical informations
     url:               /practical/
   - title:             Organization
@@ -78,7 +74,7 @@ menu:
  #   url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-#copyright:             © 2021. All rights reserved.
+#copyright:             © 2024. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -99,13 +95,13 @@ remote_theme: hydecorp/hydejack@v9.1.6
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /img/hnr2024_header3.jpg
-accent_color:          rgb(236,149,177)
+accent_image:          /img/hnr2025_header1.png
+accent_color:          rgb(180,226,169)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(236,149,177)
+theme_color:           rgb(180,226,169)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
