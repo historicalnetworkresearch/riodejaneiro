@@ -24,7 +24,7 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 <a href="https://www.c2dh.uni.lu/people/demival-vasques"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/demivasques.png" style="width:100px"></a>  
 **Demival Vasques Filho** ([mail](mailto:demival.vasques@uni.lu))  
 
-<a href="https://www.c2dh.uni.lu/people/demival-vasques"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/joaonara.png" style="width:100px"></a>  
+<a href="https://orcid.org/0000-0002-8632-7105"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/joaonara.png" style="width:100px"></a>  
 **João Carlos Nara Junior**  ([mail](mailto:joao.nara@forum.ufrj.br)) 
 
 <a href="https://www.c2dh.uni.lu/people/demival-vasques"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/renatosilva.png" style="width:100px"></a>  
