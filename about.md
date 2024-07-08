@@ -18,14 +18,14 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 ## Coordination
 
 
-<a href="https://www.inf.ufrgs.br/~bazzan/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/anabazzan.png" style="width:100px"></a>
+<a href="https://www.inf.ufrgs.br/~bazzan/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/anabazzan.png" style="width:100px"></a>  
 **Ana Lúcia Cetertich Bazzan**  ([mail](mailto:Bazzan@inf.ufrgs.br)) 
 
-<a href="https://www.c2dh.uni.lu/people/demival-vasques"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/demivasques.png" style="width:100px"></a>
+<a href="https://www.c2dh.uni.lu/people/demival-vasques"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/demivasques.png" style="width:100px"></a>  
 **Demival Vasques Filho** ([mail](mailto:demival.vasques@uni.lu))  
 
-<a href="https://www.c2dh.uni.lu/people/demival-vasques"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/joaonara.png" style="width:100px"></a>
+<a href="https://www.c2dh.uni.lu/people/demival-vasques"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/joaonara.png" style="width:100px"></a>  
 **João Carlos Nara Junior**  ([mail](mailto:joao.nara@forum.ufrj.br)) 
 
-<a href="https://www.c2dh.uni.lu/people/demival-vasques"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/renatosilva.png" style="width:100px"></a>
+<a href="https://www.c2dh.uni.lu/people/demival-vasques"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/renatosilva.png" style="width:100px"></a>  
 **Renato Silva** ([mail](mailto:silva_renato@id.uff.br))   
