@@ -28,4 +28,4 @@ The [Historical Network Research Community](https://historicalnetworkresearch.or
 **João Carlos Nara Junior**  ([mail](mailto:joao.nara@forum.ufrj.br)) 
 
 <a href="https://uff.academia.edu/RenatoDaSilva"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/renatosilva.png" style="width:100px"></a>  
-**Renato Silva** ([mail](mailto:silva_renato@id.uff.br))   
+**Renato Da Silva** ([mail](mailto:silva_renato@id.uff.br))   
