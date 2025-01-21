@@ -56,9 +56,9 @@ Although it is possible to follow the conference via streaming, it is neverthele
 
 ## Important dates
 01.12.2024 deadline for submissions (extended to 15.12.2025)  
-01.02.2025 notification of acceptance/rejection  
+03.02.2025 notification of acceptance/rejection  
 01.03.2025 registration opening  
-21-23.-5.2025 conference  
+21-23.05.2025 conference  
 
 
 
