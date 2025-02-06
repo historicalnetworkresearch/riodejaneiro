@@ -25,7 +25,7 @@ We invite them to pay attention to two dimensions that are frequently underdevel
 The word limit is now higher, to allow those who wish to say a little more. We also invite you to revise your abstract so that it can be published in advance of the event on the conference website and archived on Zenodo with a permanent DOI.
 
 * Maximum **word count: 2000** (including bibliographical references and notes)
-* Deadline for abstract revision: **April 15, 2024**
+* Deadline for abstract revision: **April 15, 2025**
 * Citations should use the **Chicago Manual of Style** 17th Edition Author Date style (author-date in the text, then full reference at the end)
 * Please include (at least) **one image** in your abstract. If you haven't produced a network visualization, please choose another image that you feel is appropriate to convey your network.
 
@@ -37,7 +37,7 @@ The word limit is now higher, to allow those who wish to say a little more. We a
 
 ## Your registration
 As the conference takes place in person in Rio, we need at least one person per communication to be present on site.
-* **Register at least one author** as "present in Rio de Janeiro in person" in the "Registration" form on the conference management platform ([hnr2025.sciencesconf.org/](https://hnr2025.sciencesconf.org/)) **by April 15, 2024**. This allows us to finalize the program, knowing who will actually be there.
+* **Register at least one author** as "present in Rio de Janeiro in person" in the "Registration" form on the conference management platform ([hnr2025.sciencesconf.org/](https://hnr2025.sciencesconf.org/)) **by April 15, 2025**. This allows us to finalize the program, knowing who will actually be there.
 * Co-authors and other participants have until May 15 to register.
 * As you know the conference is free of charge but does not cover travel or accommodation expenses for participants.
 * You can find further practical information for planning your trip to Rio here: [Practical information](https://historicalnetworkresearch.github.io/riodejaneiro/practical/)
