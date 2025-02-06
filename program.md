@@ -9,7 +9,7 @@ cover: false
 
 # Program
 
-Preliminary list of accepted papers. This page will be updated soon with the full program.
+Preliminary list of accepted papers. This page will be updated with the full program soon.
 
 - A Data Visualization Platform for Analyzing Social Relations in 19th-century Alegrete  
 Paulo Roberto Scheuer Gomes, Laura Vargas Dicheti, Carla Maria Dal Sasso Freitas  
