@@ -30,7 +30,10 @@ Jan Siwoń
 Marlon C. Alcantara, Leonardo Domingos  
 
 - High Middle Ages Aristocratic Networks through Alcuin's Letters and Digital Methods (c. 790-804)  
-Renato Da Silva  
+Renato Da Silva
+
+- Historical Network Research of International Trade: Data Issues Overview  
+Alina Vladimirova  
 
 - Identifying prominent actors in historical networks: The case of the New Education Movement  
 Lauri Luoto  
