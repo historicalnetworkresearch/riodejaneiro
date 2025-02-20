@@ -14,9 +14,6 @@ This is a preliminary list of accepted papers. This page will be updated with th
 - A Data Visualization Platform for Analyzing Social Relations in 19th-century Alegrete  
 Paulo Roberto Scheuer Gomes, Laura Vargas Dicheti, Carla Maria Dal Sasso Freitas  
 
-- Adapting Roman Elite Identity in a Changing World  
-Celis Tittse  
-
 - Analyzing political-religious criminality during the Dollfuß-/Schuschnigg-Regime – A case study of LLM-assisted historical network research  
 Cindarella Petz  
 
@@ -57,7 +54,10 @@ David Zbíral, Gideon Kotzé, Zoltán Brys, Robert L. J. Shaw, Tomáš Hampejs, 
 Martin Grandjean  
 
 - Political entanglements. A network study on contracts, power, and defection in Renaissance Italy's warfare market  
-Criveller Margherita, Federico Bianchi, Raffaele Vacca, Flaminio Squazzoni  
+Criveller Margherita, Federico Bianchi, Raffaele Vacca, Flaminio Squazzoni
+
+- Social Networks from Dailies: The Observer's Perspective
+José Antonio Motilla, Diego Espitia, Edgardo Galán Vasquez, Edgardo Ugalde, Martín Zumay
 
 - The Pioneers Network of the Computer Science Courses in Brazil  
 Ana Bazzan  
