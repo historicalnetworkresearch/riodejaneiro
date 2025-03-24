@@ -10,7 +10,7 @@ cover: false
 # Program
 The program of the Historical Network Research Conference 2025 includes 20 papers, 2 keynotes and 2 workshops.
 
-# Confirmed speakers
+## Confirmed speakers
 
 <a href="https://www.uni.lu/c2dh-en/people/benoit-majerus/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/benoitmajerus.png" style="width:100px"></a> 
 
@@ -23,7 +23,7 @@ The program of the Historical Network Research Conference 2025 includes 20 paper
 **Workshop: From Snapshots to Mechanisms: An Introduction to Social Network Analysis for Historians** 
 This introductory workshop explores the fundamentals of Social Network Analysis (SNA) for historians, moving from static descriptions of social structures to the mechanisms that shape networks over time. We will cover key concepts such as triads, embeddedness, cohesion, and centrality, as well as more complex phenomena like structural holes, homophily, and multiplexity. Additionally, we will discuss the physics of networks, including small-world properties and assortativity, and introduce models of tie formation and network dynamics. By the end of the workshop, participants will gain tools to analyze historical networks not just as fixed snapshots, but as evolving systems shaped by social and spatial forces.  
 
-# Accepted papers
+## Accepted papers
 This is a preliminary list of accepted papers. This section will be updated with the full program soon.
 
 - A Data Visualization Platform for Analyzing Social Relations in 19th-century Alegrete  
