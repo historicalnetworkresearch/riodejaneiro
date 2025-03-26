@@ -12,9 +12,9 @@ The program of the Historical Network Research Conference 2025 includes 20 paper
 
 ## Keynotes
 
-<a href="https://www.uni.lu/c2dh-en/people/benoit-majerus/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/benoitmajerus.png" style="width:100px"></a>   
-
 **Making shell companies visible. Digital history as a tool to unveil global networks and local infrastructures**   
+
+<a href="https://www.uni.lu/c2dh-en/people/benoit-majerus/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/benoitmajerus.png" style="width:100px"></a>   
 
 **[Benoît Majerus](https://www.uni.lu/c2dh-en/people/benoit-majerus/)** works as a historian at the [Center for Contemporary and Digital History](https://www.c2dh.uni.lu/). In the last three years, he has research on a project at the intersection of Digital and Financial History. In LETTERBOX, he used digital methods to reveal how Luxembourgish shell companies have been incorporated since the interwar period in global tax avoidance schemes.  
 
