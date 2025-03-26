@@ -17,9 +17,9 @@ The program of the Historical Network Research Conference 2025 includes 20 paper
 **[Benoît Majerus](https://www.uni.lu/c2dh-en/people/benoit-majerus/)** works as a historian at the [Center for Contemporary and Digital History](https://www.c2dh.uni.lu/). In the last three years, he has research on a project at the intersection of Digital and Financial History. In LETTERBOX, he used digital methods to reveal how Luxembourgish shell companies have been incorporated since the interwar period in global tax avoidance schemes.  
 **Making shell companies visible. Digital history as a tool to unveil global networks and local infrastructures**   
 
-<a href="https://www.insper.edu.br/en/docentes/charles-kirschbaum"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/charleskirschbaum.png" style="width:100px"></a>   
-
 ## Tutorials
+
+<a href="https://www.insper.edu.br/en/docentes/charles-kirschbaum"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/charleskirschbaum.png" style="width:100px"></a>   
 
 **[Charles Kirschbaum](https://www.insper.edu.br/en/docentes/charles-kirschbaum)** holds a MBA at Wharton and a PhD in Business Administration from FGV. He is an Associate Professor at [Insper](https://www.insper.edu.br/en/home). Earlier, he worked in consulting and private equity. He is the academic coordinator of the Innovation and Entrepreneurship Observatory at Insper and the coordinator of the Organizational Studies division of Semead. He is an affiliated researcher at the Núcleo Ciência Pela Infância (NCPI). His research interests include Creative Industries, Strategy, Entrepreneurship, and Social Network Analysis.  
 **From Snapshots to Mechanisms: An Introduction to Social Network Analysis for Historians** 
