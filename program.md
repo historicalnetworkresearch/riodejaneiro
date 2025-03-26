@@ -10,17 +10,19 @@ cover: false
 # Program
 The program of the Historical Network Research Conference 2025 includes 20 papers, 2 keynotes and 2 workshops.
 
-## Confirmed speakers
+## Keynotes
 
 <a href="https://www.uni.lu/c2dh-en/people/benoit-majerus/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/benoitmajerus.png" style="width:100px"></a> 
 
 **[Benoît Majerus](https://www.uni.lu/c2dh-en/people/benoit-majerus/)** works as a historian at the [Center for Contemporary and Digital History](https://www.c2dh.uni.lu/). In the last three years, he has research on a project at the intersection of Digital and Financial History. In LETTERBOX, he used digital methods to reveal how Luxembourgish shell companies have been incorporated since the interwar period in global tax avoidance schemes.  
-**Keynote:** Making shell companies visible. Digital history as a tool to unveil global networks and local infrastructures. 
+**Making shell companies visible. Digital history as a tool to unveil global networks and local infrastructures**   
 
-<a href="https://www.insper.edu.br/en/docentes/charles-kirschbaum"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/charleskirschbaum.png" style="width:100px"></a> 
+<a href="https://www.insper.edu.br/en/docentes/charles-kirschbaum"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/charleskirschbaum.png" style="width:100px"></a>   
+
+## Tutorials
 
 **[Charles Kirschbaum](https://www.insper.edu.br/en/docentes/charles-kirschbaum)** holds a MBA at Wharton and a PhD in Business Administration from FGV. He is an Associate Professor at [Insper](https://www.insper.edu.br/en/home). Earlier, he worked in consulting and private equity. He is the academic coordinator of the Innovation and Entrepreneurship Observatory at Insper and the coordinator of the Organizational Studies division of Semead. He is an affiliated researcher at the Núcleo Ciência Pela Infância (NCPI). His research interests include Creative Industries, Strategy, Entrepreneurship, and Social Network Analysis.  
-**Workshop: From Snapshots to Mechanisms: An Introduction to Social Network Analysis for Historians** 
+**From Snapshots to Mechanisms: An Introduction to Social Network Analysis for Historians** 
 This introductory workshop explores the fundamentals of Social Network Analysis (SNA) for historians, moving from static descriptions of social structures to the mechanisms that shape networks over time. We will cover key concepts such as triads, embeddedness, cohesion, and centrality, as well as more complex phenomena like structural holes, homophily, and multiplexity. Additionally, we will discuss the physics of networks, including small-world properties and assortativity, and introduce models of tie formation and network dynamics. By the end of the workshop, participants will gain tools to analyze historical networks not just as fixed snapshots, but as evolving systems shaped by social and spatial forces.  
 
 ## Accepted papers
