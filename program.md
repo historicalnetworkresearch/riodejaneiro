@@ -8,7 +8,7 @@ cover: false
 ---
 
 # Program
-The program of the Historical Network Research Conference 2025 includes 20 papers, 2 keynotes and 2 workshops.
+The program of the Historical Network Research Conference 2025 includes 20 papers, two keynotes and two tutorials.
 
 ## Keynotes
 
