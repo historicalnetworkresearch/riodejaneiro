@@ -19,7 +19,7 @@ The 10th International Historical Network Research Conference (HNR2025) will tak
 <img src="img/hnr_logo_vector.png" width="200">  <img src="img/2025_C2DH_Uni.png" width="300">  <img src="img/logoufrj02.jpeg" width="125">  <img src="img/logo-forum.jpeg" width="175">   
 
 
-**Sponsor**  
+### Sponsor  
 
 <img src="img/FNR_LOGO_RGB.png" width="200">  
 Funded by the Luxembourg National Research Fund (FNR) (grant number CORE C21SC15850642)
