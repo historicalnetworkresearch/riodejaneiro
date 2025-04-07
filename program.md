@@ -18,6 +18,12 @@ The program of the Historical Network Research Conference 2025 includes 20 paper
 
 **[Benoît Majerus](https://www.uni.lu/c2dh-en/people/benoit-majerus/)** works as a historian at the [Center for Contemporary and Digital History](https://www.c2dh.uni.lu/). In the last three years, he has research on a project at the intersection of Digital and Financial History. In LETTERBOX, he used digital methods to reveal how Luxembourgish shell companies have been incorporated since the interwar period in global tax avoidance schemes.  
 
+**Is AI in low-resource contexts still a realistic pursuit? Absolutely — and necessary**  
+
+<a href="http://www2.ic.uff.br/~alinepaes/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/alinepaes.png" style="width:100px"></a>  
+
+**[Aline Paes](http://www2.ic.uff.br/~alinepaes/)** is an Associate Professor at the Institute of Computing at the [Fluminense Federal University (UFF)](https://international.uff.br/), Brazil. She earned her Master’s and Ph.D. degrees in Computer Science and Systems Engineering, focusing on Artificial Intelligence, from COPPE-Systems at the Federal University of Rio de Janeiro (UFRJ). During her Ph.D., she spent a year as a visiting researcher at Imperial College London. Currently, she holds a Jovem Cientista do Estado do Rio de Janeiro (Young Scientist of the State of Rio de Janeiro) fellowship from FAPERJ and a research productivity fellowship from CNPq. Her research in Artificial Intelligence spans multiple areas, including machine learning integrated with neural, statistical, and logical approaches; representation learning and language models; model adaptation and transfer learning; explainable AI; and AI applications for positive social impact. Aline Paes serves on the editorial boards of the Machine Learning Journal, the Ibero-American Journal of Artificial Intelligence, and the Journal of the Brazilian Computer Society. She was recently awarded FAPERJ’s inaugural research grant for Young Women Scientists. In 2023, she was a visiting professor at the Natural Language Processing Group at the University of Sheffield, supported by a CAPES scholarship. Since 2020, she has been a member of the [Brasileiras em PLN (Brazilian Women in NLP)](https://brasileiraspln.com/) group. 
+
 
 ## Tutorials
 
