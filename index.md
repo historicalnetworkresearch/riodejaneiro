@@ -16,4 +16,4 @@ The 10th International Historical Network Research Conference (HNR2025) will tak
 | <a href="https://hnr2025.sciencesconf.org">**Registration**</a><br>Registration is now open and free of charge. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <a href="program">**Program**</a><br>The preliminary conference program is now available. | <a href="practical">**Practical information**</a><br>Some information about the location and Rio. | 
 
 
-<img src="img/hnr_logo_vector.png" width="200">  <img src="img/2025_C2DH_Uni.png" width="400">  
+<img src="img/hnr_logo_vector.png" width="200">  <img src="img/2025_C2DH_Uni.png" width="300">  
