@@ -15,7 +15,16 @@ This tuotorial day precedes the HNR2025 conference and takes place at the same v
 
 ## Tutorial 1:
 
-TBA
+**Introduction to Generative AI** 
+
+<a href="https://br.linkedin.com/in/thiago-castro-ferreira-7178b135b"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/thiagoferreira.png" style="width:100px"></a>  
+
+**[Dr. Thiago Castro Ferreira](https://br.linkedin.com/in/thiago-castro-ferreira-7178b135b) is currently an Applied Scientist at [aiXplain](https://aixplain.com/) with extensive experience in Software Engineering, Natural Language Processing, and Machine Learning, both in academia and industry. He earned his Bachelor's degree (2008-2012) and Master's degree (2012-2014) in Information Systems from the University of São Paulo. He then pursued a PhD in Computational Linguistics at Tilburg University (2015-2018), focusing on Natural Language Generation. His thesis, titled "Advances in Natural Language Generation: Generating Varied Outputs from Semantic Inputs," saw chapters published in top-tier Computational Linguistics venues, including NAACL, ACL, EACL, EMNLP, and INLG.
+
+Following his PhD, Dr. Ferreira continued at Tilburg University as a postdoctoral researcher (2018-2019), working on Community Question-Answering systems in collaboration with Sanoma Media Netherlands BV. He then undertook a second postdoctoral position at the Federal University of Minas Gerais (2019-2021), investigating the application of large language models in health-related Question-Answering systems and chatbot applications for Brazilian Portuguese. Currently, Thiago is a Postdoctoral Researcher at Fluminense Federal University, where he researches the use of AI Agents in the financial domain.
+
+In addition to his research, he led several outreach and extension projects. These included organizing workshops, developing robot-journalists to verbalize Brazilian open data, and creating a chatbot to screen patients for potential COVID-19 infection.
+
 
 ## Tutorial 2:  
 
