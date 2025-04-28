@@ -37,7 +37,9 @@ This introductory workshop explores the fundamentals of Social Network Analysis 
 **[Charles Kirschbaum](https://www.insper.edu.br/en/docentes/charles-kirschbaum)** holds a MBA at Wharton and a PhD in Business Administration from FGV. He is an Associate Professor at [Insper](https://www.insper.edu.br/en/home). Earlier, he worked in consulting and private equity. He is the academic coordinator of the Innovation and Entrepreneurship Observatory at Insper and the coordinator of the Organizational Studies division of Semead. He is an affiliated researcher at the Núcleo Ciência Pela Infância (NCPI). His research interests include Creative Industries, Strategy, Entrepreneurship, and Social Network Analysis.  
 
 ## Registration (free of charge!)
-To ensure that the workshops run smoothly, **registration is separate from the conference registration**. Those who have already registered for the conference must therefore also complete the form below (available soon). It is of course possible to attend the workshops without taking part in the conference itself afterwards.
+To ensure that the tutorials run smoothly, **registration is separate from the conference registration**. Those who have already registered for the conference must therefore also complete the form below (available soon). It is of course possible to attend the tutorials without taking part in the conference itself afterwards.
 
-Please note that as places are limited, your registration is final. Once the number of registrations exceeds the capacity of the in-person workshop, you will be placed on a waiting list and informed a few weeks in advance if a place becomes available. It is therefore important to keep us informed if you cancel your registration.
+Please note that as places are limited, your registration is final. Once the number of registrations exceeds the capacity of the in-person tutorial, you will be placed on a waiting list and informed a few weeks in advance if a place becomes available. It is therefore important to keep us informed if you cancel your registration.  
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdeoH3U9e3ZJ_LM3RpMiSxcdaKZ-ZVVZKFs8A7Tn62SvHW4VA/viewform?embedded=true" width="640" height="1434" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
