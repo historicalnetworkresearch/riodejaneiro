@@ -41,5 +41,7 @@ To ensure that the tutorials run smoothly, **registration is separate from the c
 
 Please note that as places are limited, your registration is final. Once the number of registrations exceeds the capacity of the in-person tutorial, you will be placed on a waiting list and informed a few weeks in advance if a place becomes available. It is therefore important to keep us informed if you cancel your registration.  
 
+
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdeoH3U9e3ZJ_LM3RpMiSxcdaKZ-ZVVZKFs8A7Tn62SvHW4VA/viewform?embedded=true" width="640" height="1434" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
