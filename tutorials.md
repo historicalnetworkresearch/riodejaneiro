@@ -9,7 +9,7 @@ cover: false
 
 ## Wednesday 21 May 2025 - Forum de Ciência e Cultura da Universidade Federal do Rio de Janeiro (UFRJ)
 
-This tutorial day precedes the HNR2025 conference and takes place at the same venue (Forum de Ciência e Cultura da Universidade Federal do Rio de Janeiro (UFRJ), see [practical info](/riodejaneiro/practical)). It closes with the opening plenary session, a keynote lecture by Benoît Majerus, to which workshop participants are of course welcome. [Take a look at the full programme for these three days of historical network analysis](/riodejaneiro/program). 
+This tutorial day precedes the HNR2025 conference and takes place at the same venue (Forum de Ciência e Cultura da Universidade Federal do Rio de Janeiro (UFRJ), see [practical info](/riodejaneiro/practical)). [Take a look at the full programme for these three days of historical network analysis](/riodejaneiro/program). 
 
 > Please note that the tutorials take place in person only! 
 
@@ -30,7 +30,7 @@ In addition to his research, he led several outreach and extension projects. The
 
 **From Snapshots to Mechanisms: An Introduction to Social Network Analysis for Historians**  
 
-This introductory workshop explores the fundamentals of Social Network Analysis (SNA) for historians, moving from static descriptions of social structures to the mechanisms that shape networks over time. We will cover key concepts such as triads, embeddedness, cohesion, and centrality, as well as more complex phenomena like structural holes, homophily, and multiplexity. Additionally, we will discuss the physics of networks, including small-world properties and assortativity, and introduce models of tie formation and network dynamics. By the end of the workshop, participants will gain tools to analyze historical networks not just as fixed snapshots, but as evolving systems shaped by social and spatial forces.  
+This introductory tutorial explores the fundamentals of Social Network Analysis (SNA) for historians, moving from static descriptions of social structures to the mechanisms that shape networks over time. We will cover key concepts such as triads, embeddedness, cohesion, and centrality, as well as more complex phenomena like structural holes, homophily, and multiplexity. Additionally, we will discuss the physics of networks, including small-world properties and assortativity, and introduce models of tie formation and network dynamics. By the end of the tutorial, participants will gain tools to analyze historical networks not just as fixed snapshots, but as evolving systems shaped by social and spatial forces.  
 
 <a href="https://www.insper.edu.br/en/docentes/charles-kirschbaum"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/charleskirschbaum.png" style="width:100px"></a>   
 
