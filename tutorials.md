@@ -9,7 +9,7 @@ cover: false
 
 ## Wednesday 21 May 2025 - Forum de Ciência e Cultura da Universidade Federal do Rio de Janeiro (UFRJ)
 
-This tuotorial day precedes the HNR2025 conference and takes place at the same venue (Forum de Ciência e Cultura da Universidade Federal do Rio de Janeiro (UFRJ), see [practical info](/riodejaneiro/practical)). It closes with the opening plenary session, a keynote lecture by Benoît Majerus, to which workshop participants are of course welcome. [Take a look at the full programme for these three days of historical network analysis](/riodejaneiro/program). 
+This tutorial day precedes the HNR2025 conference and takes place at the same venue (Forum de Ciência e Cultura da Universidade Federal do Rio de Janeiro (UFRJ), see [practical info](/riodejaneiro/practical)). It closes with the opening plenary session, a keynote lecture by Benoît Majerus, to which workshop participants are of course welcome. [Take a look at the full programme for these three days of historical network analysis](/riodejaneiro/program). 
 
 > Please note that workshops take place in person only! 
 
