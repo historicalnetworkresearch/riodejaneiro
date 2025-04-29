@@ -40,7 +40,7 @@ Annika Häberlein
 - Cliental Network of Biała Podlaska 1702-1709: An Attempt at Qualitative Analysis of Patronage Networking  
 Jan Siwoń
 
-- Exploring the dynamics and critical transition in historical processes of Asoka's reign from the prism of complexity approach
+- Exploring the dynamics and critical transition in historical processes of Asoka's reign from the prism of complexity approach  
 Syed Shariq Husain, Kalpit Raj
 
 - Exploring the Nature of Science through Data and Connections: Introducing Historical Network Analysis in Brazilian High School Physics Education  
