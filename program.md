@@ -70,7 +70,7 @@ Martin Grandjean
 - Political entanglements. A network study on contracts, power, and defection in Renaissance Italy's warfare market  
 Criveller Margherita, Federico Bianchi, Raffaele Vacca, Flaminio Squazzoni
 
-- Social Networks from Dailies: The Observer's Perspective
+- Social Networks from Dailies: The Observer's Perspective  
 José Antonio Motilla, Diego Espitia, Edgardo Galán Vasquez, Edgardo Ugalde, Martín Zumay
 
 - The Succession of Mysticism during the Formative Period of Islamic Reformism  
