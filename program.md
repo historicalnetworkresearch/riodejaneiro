@@ -31,7 +31,6 @@ The program of the Historical Network Research Conference 2025 includes 20 paper
 
 ## Wedsneday 21 May  
 Tutorial Day!  
-
 ### 09:00 - 09:10 Welcome to Rio and to the Forum de Ciência e Cultura
 ### 09:10 - 12:30 Tutorial 1
 Introduction to Generative AI (Thiago Castro Ferreira)  
@@ -39,7 +38,6 @@ Introduction to Generative AI (Thiago Castro Ferreira)
 From Snapshots to Mechanisms: An Introduction to Social Network Analysis for Historians (Charles Kirschbaum)  
 
 ## Thursday 22 May
-
 ### 09:00 - 09:10 Welcome to HNR2025
 ### 09:10 - 10:30 Opening Keynote
 Making shell companies visible. Digital history as a tool to unveil global networks and local infrastructures (Benoît Majerus)
