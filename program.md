@@ -10,7 +10,9 @@ cover: false
 # Program
 The program of the Historical Network Research Conference 2025 includes 20 papers, two keynotes and two tutorials. Please note that [tutorial registration](/riodejaneiro/tutorials) is separate from the [conference registration](https://hnr2025.sciencesconf.org/) (but also free of charge)!
 
+<p style="text-align: center;">
 <a href="https://historicalnetworkresearch.github.io/riodejaneiro/program/"><img src="https://raw.githubusercontent.com/historicalnetworkresearch/riodejaneiro/master/img/hnr2025program.png"></a>
+</p>
 
 ## Keynotes
 
