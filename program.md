@@ -40,8 +40,8 @@ From Snapshots to Mechanisms: An Introduction to Social Network Analysis for His
 
 ## Thursday 22 May
 
-### 09:00 - 09:10 Welcome to HNR2025  
-### 09:10 - 10:30 Opening Keynote  
+### 09:00 - 09:10 Welcome to HNR2025
+### 09:10 - 10:30 Opening Keynote
 Making shell companies visible. Digital history as a tool to unveil global networks and local infrastructures (Benoît Majerus)
 ### 11:00 - 12:30 Session 1
 - Cliental Network of Biała Podlaska 1702-1709: An Attempt at Qualitative Analysis of Patronage Networking (Jan Siwoń)  
@@ -54,7 +54,7 @@ Making shell companies visible. Digital history as a tool to unveil global netwo
 - Network information extraction from medieval trial records combining LLM-based coreference resolution with string matching in pre-existing lists of persons (David Zbíral, Gideon Kotzé, Zoltán Brys, Robert L. J. Shaw, Tomáš Hampejs, Andres Karjus)
 - Political entanglements. A network study on contracts, power, and defection in Renaissance Italy's warfare market (Criveller Margherita, Federico Bianchi, Raffaele Vacca, Flaminio Squazzoni)
 
-## Friday 23 May  
+## Friday 23 May
 ### 09:00 - 10:30 Session 3
 - Breaking the Surface. Uncovering Mechanisms, Practices and Dynamics of Historical Engagement in the City of Cologne (Annika Häberlein)  
 - Exploring the Nature of Science through Data and Connections: Introducing Historical Network Analysis in Brazilian High School Physics Education (Marlon C. Alcantara, Leonardo Domingos)   
