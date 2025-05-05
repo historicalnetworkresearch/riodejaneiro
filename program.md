@@ -31,42 +31,42 @@ The program of the Historical Network Research Conference 2025 includes 20 paper
 
 ## Wedsneday 21 May
 Tutorial Day!
-### 09:00 - 09:10 Welcome to Rio and to the Forum de Ciência e Cultura
-### 09:10 - 12:30 Tutorial 1
+#### 09:00 - 09:10 Welcome to Rio and to the Forum de Ciência e Cultura
+#### 09:10 - 12:30 Tutorial 1
 Introduction to Generative AI (Thiago Castro Ferreira)
-### 14:30 - 18:00 Tutorial 2
+#### 14:30 - 18:00 Tutorial 2
 From Snapshots to Mechanisms: An Introduction to Social Network Analysis for Historians (Charles Kirschbaum)
 
 ## Thursday 22 May
-### 09:00 - 09:10 Welcome to HNR2025
-### 09:10 - 10:30 Opening Keynote
+#### 09:00 - 09:10 Welcome to HNR2025
+#### 09:10 - 10:30 Opening Keynote
 Making shell companies visible. Digital history as a tool to unveil global networks and local infrastructures (Benoît Majerus)
-### 11:00 - 12:30 Session 1
+#### 11:00 - 12:30 Session 1
 - Cliental Network of Biała Podlaska 1702-1709: An Attempt at Qualitative Analysis of Patronage Networking (Jan Siwoń)  
 - High Middle Ages Aristocratic Networks through Alcuin's Letters and Digital Methods (c. 790-804) (Renato Da Silva)
 - Institutional Development and the Dynamics of Power Through Time (Héctor Gutiérrez Magaña, Jesús Espinal-Enríquez)
 - A Data Visualization Platform for Analyzing Social Relations in 19th-century Alegrete (Paulo Roberto Scheuer Gomes, Laura Vargas Dicheti, Carla Maria Dal Sasso Freitas)
-### 14:30 - 16:00 Session 2
+#### 14:30 - 16:00 Session 2
 - Analyzing political-religious criminality during the Dollfuß-/Schuschnigg-Regime – A case study of LLM-assisted historical network research (Cindarella Petz)  
 - Identifying prominent actors in historical networks: The case of the New Education Movement (Lauri Luoto)    
 - Network information extraction from medieval trial records combining LLM-based coreference resolution with string matching in pre-existing lists of persons (David Zbíral, Gideon Kotzé, Zoltán Brys, Robert L. J. Shaw, Tomáš Hampejs, Andres Karjus)
 - Political entanglements. A network study on contracts, power, and defection in Renaissance Italy's warfare market (Criveller Margherita, Federico Bianchi, Raffaele Vacca, Flaminio Squazzoni)
 
 ## Friday 23 May
-### 09:00 - 10:30 Session 3
+#### 09:00 - 10:30 Session 3
 - Breaking the Surface. Uncovering Mechanisms, Practices and Dynamics of Historical Engagement in the City of Cologne (Annika Häberlein)  
 - Exploring the Nature of Science through Data and Connections: Introducing Historical Network Analysis in Brazilian High School Physics Education (Marlon C. Alcantara, Leonardo Domingos)   
 - Mapping Medieval Mazovia's Trade Networks: Reconstructing Economic and Social Dynamics through Data Analysis (Karol Banach)  
 - Social Networks from Dailies: The Observer's Perspective (José Antonio Motilla, Diego Espitia, Edgardo Galán Vasquez, Edgardo Ugalde, Martín Zumay)  
-### 11:00 - 12:30 Session 4
+#### 11:00 - 12:30 Session 4
 - Exploring the dynamics and critical transition in historical processes of Asoka's reign from the prism of complexity approach (Syed Shariq Husain, Kalpit Raj)  
 - Introducing High School Students to Historical Network Research: A Pedagogical Framework (Juliane T. Moraes, Marlon C. Alcantara, Hudson W. Ferreira)  
 - The Succession of Mysticism during the Formative Period of Islamic Reformism (Yuri Ishida)  
 - Networks of Named Entities in Large Press Collections: Epistemological and Methodological Challenges (Martin Grandjean)  
-### 14:30 - 15:50 Closing Keynote
+#### 14:30 - 15:50 Closing Keynote
 Is AI in low-resource contexts still a realistic pursuit? Absolutely — and necessary (Aline Paes)
-### 15:50 - 16:00 HNR2026 Announcement
-### 16:00 - 16:30 Final Words
+#### 15:50 - 16:00 HNR2026 Announcement
+#### 16:00 - 16:30 Final Words
 
 
 
