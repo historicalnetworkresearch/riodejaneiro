@@ -29,13 +29,13 @@ The program of the Historical Network Research Conference 2025 includes 20 paper
 **[Aline Paes](http://www2.ic.uff.br/~alinepaes/)** is an Associate Professor at the Institute of Computing at the [Fluminense Federal University (UFF)](https://international.uff.br/), Brazil. She earned her Master’s and Ph.D. degrees in Computer Science and Systems Engineering, focusing on Artificial Intelligence, from COPPE-Systems at the Federal University of Rio de Janeiro (UFRJ). During her Ph.D., she spent a year as a visiting researcher at Imperial College London. Currently, she holds a Jovem Cientista do Estado do Rio de Janeiro (Young Scientist of the State of Rio de Janeiro) fellowship from FAPERJ and a research productivity fellowship from CNPq. Her research in Artificial Intelligence spans multiple areas, including machine learning integrated with neural, statistical, and logical approaches; representation learning and language models; model adaptation and transfer learning; explainable AI; and AI applications for positive social impact. Aline Paes serves on the editorial boards of the Machine Learning Journal, the Ibero-American Journal of Artificial Intelligence, and the Journal of the Brazilian Computer Society. She was recently awarded FAPERJ’s inaugural research grant for Young Women Scientists. In 2023, she was a visiting professor at the Natural Language Processing Group at the University of Sheffield, supported by a CAPES scholarship. Since 2020, she has been a member of the [Brasileiras em PLN (Brazilian Women in NLP)](https://brasileiraspln.com/) group. 
 
 
-## Wedsneday 21 May  
-Tutorial Day!  
+## Wedsneday 21 May
+Tutorial Day!
 ### 09:00 - 09:10 Welcome to Rio and to the Forum de Ciência e Cultura
 ### 09:10 - 12:30 Tutorial 1
-Introduction to Generative AI (Thiago Castro Ferreira)  
+Introduction to Generative AI (Thiago Castro Ferreira)
 ### 14:30 - 18:00 Tutorial 2
-From Snapshots to Mechanisms: An Introduction to Social Network Analysis for Historians (Charles Kirschbaum)  
+From Snapshots to Mechanisms: An Introduction to Social Network Analysis for Historians (Charles Kirschbaum)
 
 ## Thursday 22 May
 ### 09:00 - 09:10 Welcome to HNR2025
