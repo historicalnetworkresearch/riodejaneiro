@@ -54,15 +54,13 @@ Making shell companies visible. Digital history as a tool to unveil global netwo
 
 ## Friday 23 May
 #### 09:00 - 10:30 Session 3
-- 09:00 - 09:20 Breaking the Surface. Uncovering Mechanisms, Practices and Dynamics of Historical Engagement in the City of Cologne (Annika Häberlein)  
-- 09:20 - 09:40 Exploring the Nature of Science through Data and Connections: Introducing Historical Network Analysis in Brazilian High School Physics Education (Marlon C. Alcantara, Leonardo Domingos)   
-- 09:40 - 10:00 Mapping Medieval Mazovia's Trade Networks: Reconstructing Economic and Social Dynamics through Data Analysis (Karol Banach)  
-- 10:00 - 10:30 Social Networks from Dailies: The Observer's Perspective (José Antonio Motilla, Diego Espitia, Edgardo Galán Vasquez, Edgardo Ugalde, Martín Zumay)  
+- 09:30 - 09:50 Breaking the Surface. Uncovering Mechanisms, Practices and Dynamics of Historical Engagement in the City of Cologne (Annika Häberlein)  
+- 09:50 - 10:10 Exploring the Nature of Science through Data and Connections: Introducing Historical Network Analysis in Brazilian High School Physics Education (Marlon C. Alcantara, Leonardo Domingos)   
+- 10:10 - 10:30 Mapping Medieval Mazovia's Trade Networks: Reconstructing Economic and Social Dynamics through Data Analysis (Karol Banach)   
 #### 11:00 - 12:30 Session 4
-- 11:00 - 11:20 Exploring the dynamics and critical transition in historical processes of Asoka's reign from the prism of complexity approach (Syed Shariq Husain, Kalpit Raj)  
-- 11:20 - 11:40 Introducing High School Students to Historical Network Research: A Pedagogical Framework (Juliane T. Moraes, Marlon C. Alcantara, Hudson W. Ferreira)  
-- 11:40 - 12:00 The Succession of Mysticism during the Formative Period of Islamic Reformism (Yuri Ishida)  
-- 12:00 - 12:30 Networks of Named Entities in Large Press Collections: Epistemological and Methodological Challenges (Martin Grandjean)  
+- 11:00 - 11:20 Introducing High School Students to Historical Network Research: A Pedagogical Framework (Juliane T. Moraes, Marlon C. Alcantara, Hudson W. Ferreira)  
+- 11:20 - 11:40 The Succession of Mysticism during the Formative Period of Islamic Reformism (Yuri Ishida)  
+- 11:40 - 12:10 Networks of Named Entities in Large Press Collections: Epistemological and Methodological Challenges (Martin Grandjean)  
 #### 14:30 - 15:50 Closing Keynote
 Is AI in low-resource contexts still a realistic pursuit? Absolutely — and necessary (Aline Paes)
 #### 15:50 - 16:00 HNR2026 Announcement
